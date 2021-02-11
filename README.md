@@ -1,4 +1,4 @@
-# FrogPloidy2020
+# FrogPloidy2020 [![DOI](https://zenodo.org/badge/237087100.svg)](https://zenodo.org/badge/latestdoi/237087100)
 scripts needed to replicate *Spatial Proximity Between Polyploids Across South American Frog Genera*
 
 **Primary_Analyses.R** - R script to update/replicate all primary analysis used in study
